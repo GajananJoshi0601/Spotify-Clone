@@ -25,8 +25,8 @@
 
 <h2 id="technologies">Technologies</h2>
 <ul>
-    <li>HTML, CSS</li>
-    <li>Express.js</li>
+    <li>HTML</li> 
+    <li>CSS</li>
     <li>JavaScipt</li>
 </ul>
 
