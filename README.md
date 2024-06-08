@@ -14,14 +14,14 @@
 </ul>
 
 <h2 id="installation">Installation</h2>
-<p>Clone the repository using the following command:</p>
+<p>1. Clone the repository using the following command : </p>
 <pre><code>git clone https://github.com/GajananJoshi0601/spotify-clone.git</code></pre>
-<p>Navigate to the project directory:</p>
-<pre><code>cd spotify-clone</code></pre>
-<p>Now run following command to install required dependencies.</p>
-<pre><code>npm install</code></pre>
-<p>In order to run the project we use following command</p>
-<pre><code>npm run dev</code></pre>
+<p>2. Open and Extract It.</p>
+<!-- <pre><code>cd spotify-clone</code></pre> -->
+<p>3. Now run live server.</p>
+
+<p>4 .Open index.html file in browser.</p>
+<p>5. Enjoy music on your favorite streaming platform while relaxing at home or on the go.</p>
 
 <h2 id="technologies">Technologies</h2>
 <ul>
