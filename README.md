@@ -30,6 +30,22 @@
     <li>JavaScipt</li>
 </ul>
 
+<h2 id="overview">Quick Overview of the UI</h2>
+<p>Here are some screenshots showcasing the main features of our Spotify Clone:</p>
+
+<p align="center">
+    <img src="/" alt="Home Page" width="400">
+    <br>
+    <em>Home Page</em>
+</p>
+
+<p align="center">
+    <img src="path/to/your/ui-screenshot2.png" alt="Playlist Page" width="400">
+    <br>
+    <em>Playlist Page</em>
+</p>
+
+
 <h2 id="contributing">Contributing</h2>
 <p>Contributions are welcome! Please follow these steps to contribute:</p>
 <ol>
