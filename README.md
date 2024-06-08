@@ -34,13 +34,13 @@
 <p>Here are some screenshots showcasing the main features of our Spotify Clone:</p>
 
 <p align="center">
-    <img src="/" alt="Home Page" width="400">
+    <img src="/SS/ss-1.jpg" alt="Home Page" width="400">
     <br>
     <em>Home Page</em>
 </p>
 
 <p align="center">
-    <img src="path/to/your/ui-screenshot2.png" alt="Playlist Page" width="400">
+    <img src="/SS/ss-2.jpg" alt="Playlist Page" width="400">
     <br>
     <em>Playlist Page</em>
 </p>
